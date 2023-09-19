@@ -25,7 +25,8 @@ class ClaroSpider(CrawlSpider):
     allowed_domains = ['tienda.claro.com.co']
 
     rules = (
-        Rule(LinkExtractor(allow=r'ddkey='), follow=True),
+        # Rule(LinkExtractor(allow=r'beginIndex=',), follow=True),
+        Rule(LinkExtractor(allow=r'beginIndex=(24|48|72)(&|$)'), follow=True),
         Rule(LinkExtractor(allow=r'/claro/celulares/'), callback='parse_item', follow=True),
     )
 

@@ -1,0 +1,88 @@
+battery,brand,device,display_size,frontal_camera,internal_memory,operating_system,price,ram,rear_camera
+,Apple,iPhone 14 Pro 256GB 5G,"6.1""",12 Mpx,256 GB,iOS 16,$6.199.960,6 GB,48 Mpx
+,Vivo,Vivo Y16 128GB 4G,"6,51""",5 Mpx,128 GB,Android 12,$679.900,4 GB,13 Mpx
+,Apple,iPhone 13 128GB 5G,"6.1""",12 Mpx,128 GB,iOS 16,$3.715.960,4 GB,12 Mpx
+4.500 mAh,Oppo,Oppo Reno 7 256GB 4G con Obsequio,"6,4”",32 Mpx,256 GB,Android 12,$1.898.900,8 GB,64 Mpx
+5.000 mAh,Xiaomi,Xiaomi Redmi 12C 64GB,"6,71""",5 Mpx,64 GB,Android 12,$468.900,3 GB,50 Mpx
+,Apple,iPhone 14 Pro 128GB 5G,"6.1""",12 Mpx,128 GB,iOS 16,$5.550.960,6 GB,48 Mpx
+,Apple,iPhone 14 Plus 128GB 5G,"6.7""",12 Mpx,128 GB,iOS 16,$4.384.960,6 GB,12 Mpx
+,Apple,iPhone 14 256GB 5G,"6.1""",12 Mpx,256 GB,iOS 16,$4.935.960,6 GB,12 Mpx
+,Huawei,Huawei Nova Y70 128GB 4G,N/A,8 Mpx,128 GB,EMUI 12,$749.900,4 GB,48 Mpx
+,Apple,iPhone 14 128GB 5G,"6.1""",12 Mpx,128 GB,iOS 16,$4.279.960,6 GB,12 Mpx
+,Samsung,Samsung Galaxy S23 Ultra 256GB 5G Con Obsequio,"6.8""",12 Mpx,256 GB,Android 13,$6.299.950,12 GB,200 Mpx
+,Samsung,Samsung Galaxy S23 256GB 5G,"6.1""",12 Mpx,256 GB,Android 13,$3.999.950,8 GB,50 Mpx
+,Vivo,vivo Y35 256 GB 4G Con Obsequio,"6.58""",16 Mpx,256 GB,Android 12,$1.399.900,8 GB,50 Mpx
+,Oppo,Oppo A17 64GB,"6,5""",5 Mpx,64 GB,Android 12,$648.900,4 GB,50 Mpx
+,Honor,Honor X7a 128GB 4G,"6.7""",8 Mpx,128 GB,Android 12,$759.900,6 GB,50 Mpx
+4.400 mAh,Samsung,Samsung Galaxy Z Fold 5 512GB 5G con Obsequio,"6.4""",50 Mpx,512 GB,Android 13,$9.999.950,12 GB,10 Mpx
+5.000 mAh,Xiaomi,Xiaomi Redmi 12 128 GB,"6,79""",8 Mpx,128 GB,Android 13,$748.900,4 GB,50 Mpx
+,Samsung,Samsung Galaxy A54 128 GB 5G,"6,4""",32 Mpx,128 GB,Android 13,$1.799.950,6 GB,50 Mpx
+,Kalley,Kalley Black C Pro 256 GB,"6,5"" HD+",8 Mpx,256 GB,Android 13,$799.900,6 GB,50 Mpx
+,Kalley,Kalley Black C 128 GB,"6,5""",8 Mpx,128 GB,Android 13,$579.900,4 GB,50 Mpx
+,Huawei,Huawei Nova 10SE 256 GB con obsequio,6.67”,16 Mpx,256 GB,EMUI 12,$1.499.900,8 GB,108 Mpx
+4.400 mAh,Motorola,Motorola Edge 40 256 GB,"6.55""",32 Mpx,256 GB,Android 13,$2.199.900,8 GB,50 Mpx
+4.500 mAh,Honor,Combo Honor X8A 128GB 4G con Obsequio,"6.7""",16 Mpx,128 GB,Android 12,$1.796.900,8 GB,100 Mpx
+,Samsung,Samsung Galaxy Z Flip 5 512GB con Obsequio,"6.7""",10 Mpx,512 GB,Android 13,$5.999.950,8 GB,12 Mpx
+2.000 mAh,ZTE,ZTE Blade A31 Lite 4G,"5,0""",5 Mpx,32 GB,Android 9,$199.900,1 GB,8 Mpx
+,Nokia,Nokia G11 Plus 64GB DS,N/A,50 Mpx,64 GB,Android One 12,$674.900,3 GB,8 Mpx
+3.110 mAh,Apple,iPhone 11 128GB 4G,"6.1""",12 Mpx,128 GB,iOS 16,$3.382.960,4 GB,12 Mpx
+2.815 mAh,Apple,iPhone 12 128GB 4G,"6.1""",12 Mpx,128 GB,IOS 16,$3.422.960,4 GB,
+3.110 mAh,Apple,iPhone 11 128GB 4G,"6.1""",12 Mpx,128 GB,iOS 16,$2.589.960,4 GB,12 Mpx
+,Samsung,Samsung Galaxy A04E 32GB 4G,"6,5""",5 Mpx,32 GB,Android 12,$399.900,3 GB,13 Mpx
+5.000 mAh,Motorola,Motorola Moto G22 128GB 4G,"6,5""",16 Mpx,128 GB,Android 12,$549.900,4 GB,50 Mpx
+5.000 mAh,Xiaomi,Xiaomi Redmi 12 256 GB,"6,79""",8 Mpx,256 GB,Android 13,$932.900,8 GB,50 Mpx
+4.500 mAh,Honor,Honor X8A 128GB 4G,"6.7""",16 Mpx,128 GB,Android 12,$932.900,8 GB,100 Mpx
+5.010 mAh,TCL,TCL 40SE 256GB con obsequio,"6,7""",8 Mpx,256 GB,Android 13,$849.900,6 GB,50 Mpx
+,Samsung,Samsung Galaxy S23 Plus 512 GB 5G Con Obsequio,"6,6""",12 MP,512 GB,Android 13,$4.996.950,8 GB,50 MP
+5.000 mAh,TCL,TCL 408 64GB,"6.5""",8 Mpx,64GB,Android 12,$449.900,6 GB,50 Mpx
+,Huawei,Huawei Mate 50 Pro 256GB con Obsequio,6.74”,13 Mpx,256 GB,EMUI 13,$4.655.900,8 GB,50 Mpx
+5.000 mAh,Oppo,Oppo Reno 10 256GB 5G con obsequio,6.7”,32 Mpx,256 GB,Android 13,$2.389.900,8 GB,64 Mpx
+,Kalley,Kalley Silver C 64GB,"6,5""",5 Mpx,64 GB,Android GO 13,$424.900,2 GB,13 Mpx
+,Samsung,Samsung Galaxy Z Flip 5 512GB Con Obsequio,"6.7""",10 Mpx,512 GB,Android 13,$5.999.950,8 GB,12 Mpx
+,Oppo,Oppo A17 64GB con obsequio,"6,5""",5 Mpx,64 GB,Android 12,$648.900,4 GB,50 Mpx
+,Xiaomi,Xiaomi Redmi Note 12S 256GB,"6.43""",16 Mpx,256 GB,Android 13,$1.459.900,8 GB,108 Mpx
+,Xiaomi,Xiaomi Redmi Note 12 Pro Plus 256GB,"6,67""",16 Mpx,256 GB,Android 12,$2.459.900,8 GB,200 Mpx
+5.000 mAh,Motorola,Motorola Moto G23 128GB,"6.53""",16 Mpx,128 GB,Android 13,$719.900,4 GB,50 Mpx
+,Huawei,Huawei Nova 10SE 128GB 4G,6.67”,16 Mpx,128 GB,EMUI 12,$1.213.900,8 GB,108 Mpx
+,Xiaomi,Xiaomi Redmi Note 12 128GB,"6,67""",13 Mpx,128 GB,Android 13,$843.900,4 GB,50 Mpx
+5.000 mAh,Motorola,Motorola Moto E13 64 GB,"6.5""",5 Mpx,64 GB,Android 13 GO,$399.900,2 GB,13 Mpx
+,Xiaomi,Xiaomi Redmi A2 32GB,"6.52""",5 Mpx,32 GB,Android 13,$349.900,2 GB,8 Mpx
+2.815 mAh,Apple,iPhone 12 128GB 4G,"6.1""",12 Mpx,128 GB,IOS 16,$4.214.960,4 GB,
+5.000 mAh,Samsung,Samsung Galaxy A14 128 GB 4G,"6.6""",13 Mpx,128 GB,Android 13,$599.900,4 GB,50 Mpx
+4.020 mAh,Motorola,Motorola Moto E22 128 GB,"6.52""",5 Mpx,128 GB,Android 12,$459.900,4 GB,16 Mpx
+,Samsung,Samsung Galaxy A04 64GB 4G,"6,5""",5 Mpx,64 GB,Android 12,$499.900,4 GB,
+,Apple,iPhone 13 128GB 5G,"6.1""",12 Mpx,128 GB,iOS 16,$4.507.960,4 GB,12 Mpx
+5.000 mAh,Samsung,Samsung Galaxy A24 128 GB,"6.5""",13 Mpx,128 GB,Android 13,$899.900,4 GB,50 Mpx
+4.500 mAh,Oppo,Oppo Reno 7 256GB 4G,"6,4”",32 Mpx,256 GB,Android 12,$1.898.900,8 GB,64 Mpx
+4.000 mAh,Motorola,Motorola Moto E20 32 GB 4G,"6,5""",5 Mpx,32 GB,Android 11 Go Edition,$394.900,2 GB,13 Mpx
+,Samsung,Samsung Galaxy A04S 128GB 4G,"6,5""",5 Mpx,128 GB,Android 12,$599.900,4 GB,50 Mpx
+5.010 mAh,TCL,TCL 40SE 128GB,"6,7""",8 Mpx,128 GB,Android 13,$579.900,4 GB,50 Mpx
+,Huawei,Huawei Nova 10SE 128GB 4G con obsequio,6.67”,16 Mpx,128 GB,EMUI 12,$1.213.900,8 GB,108 Mpx
+,Huawei,Huawei Nova Y61 128 GB con obsequio,N/A,5 Mpx,128 GB,EMUI 13,$699.900,4 GB,50 Mpx
+,Oppo,Oppo A78 256GB 4G con Obsequio,"6,43""",8 Mpx,256 GB,Android 13,$1.689.900,8 GB,50 Mpx
+,vivo,vivo Y35 256 GB 4G,"6.58""",16 Mpx,256 GB,Android 12,$1.399.900,8 GB,50 Mpx
+,Vivo,vivo V25E 256 GB con obsequio,"6.6""",32 Mpx,256 GB,Android 13,$1.999.900,8 GB,64 Mpx
+,Samsung,Samsung Galaxy S23 Ultra 256GB 5G Con Obsequio,"6.8""",12 Mpx,256 GB,Android 13,$6.299.950,12 GB,200 Mpx
+3.800 mAh,Motorola,Motorola Razr 40 Ultra 512 GB con obsequio,"6.9, 3.63 (CLI)",32 Mpx,512 GB,Android 13,$6.698.900,12 GB,12 Mpx
+,Vivo,vivo Y36 256 GB 4G Con Obsequio,"6.63""",16 Mpx,256 GB,Android 13,$1.539.900,8 GB,50 Mpx
+,Huawei,Huawei Nova Y61 128 GB con obsequio,N/A,5 Mpx,128 GB,EMUI 13,$699.900,4 GB,50 Mpx
+5.100 mAh,Honor,Honor Magic 5 Lite 256 GB con obsequio,"6,67""",16 Mpx,256 GB,Android 12,$1.799.900,8 GB,64 Mpx
+,Samsung,Samsung Galaxy Z Flip 5 256GB con Obsequio,"6.7""",10 Mpx,256 GB,Android 13,$5.999.950,8 GB,12 Mpx
+,Samsung,Samsung Galaxy A34 128 GB 5G,"6,6""",13 Mpx,128 GB,Android 13,$1.339.950,6 GB,48 Mpx
+5.000 mAh,Vivo,vivo Y27 128GB 4G,"6.64""",8 Mpx,128 GB,Android 13,$932.900,6 GB,50 Mpx
+4.400 mAh,Motorola,Motorola Edge 30 Fusión 256Gb 5G,"6,6""",32 Mpx,256 GB,Android 12,$2.095.900,12 GB,50 Mpx
+,Motorola,Motorola Moto G72 128GB,"6,6""",16 Mpx,128 GB,Android 12,$899.900,6 GB,108 Mpx
+5.000 mAh,ZTE,ZTE Blade A52 64GB 4G,"6.52""",5 Mpx,64 GB,Android 11,$299.900,2 GB,13 Mpx
+,Honor,Honor X6 64GB 4G,"6.5""",5 Mpx,64 GB,Android 12,$496.900,4 GB,50 Mpx
+,Oppo,Oppo A57 128GB,"6,5""",8 Mpx,128 GB,Android 12,$799.900,4 GB,13 Mpx
+4.500 mAh,Nokia,Nokia G60 128GB 5G Dual Sim,"6,58""",8 Mpx,128 GB,Android One 12,$1.459.900,6 GB,50 Mpx
+4.500 mAh,Oppo,Oppo Reno 7 256GB 4G con Obsequio,N/A,32 Mpx,256 GB,Android 12,$1.898.900,8 GB,64 Mpx
+6.000 mAh,ZTE,ZTE Blade V40 Vita 128GB 4G,"6.745""",8 Mpx,128 GB,Android 11,$554.900,4 GB,48 Mpx
+,Apple,iPhone 14 Pro Max 128GB 5G,"6.7""",12 Mpx,128 GB,iOS 16,$6.072.960,6 GB,48 Mpx
+5.000 mAh,TECNO,Tecno Camon 19 Neo 128 GB 4G,"6,78""",32 Mpx,128 GB,Android 12,$779.900,6 GB,48 Mpx
+5.000 mAh,Vivo,vivo Y22S 128GB 4G,"6.55""",8 Mpx,128 GB,Android 12,$849.900,4 GB,50 Mpx
+5.000 mAh,Xiaomi,Xiaomi Redmi 12C 128GB,"6,71""",5 Mpx,128 GB,Android 12,$628.900,4 GB,50 Mpx
+4.020 mAh,Motorola,Motorola Moto Edge 30 Neo 128GB,"6,3""",32 Mpx,128 GB,Android 12,$1.427.900,8 GB,64 Mpx
+5.000 mAh,Honor,Honor X6s 128GB,"6,5""",5 Mpx,128 GB,Android 12,$599.900,4 GB,50 Mpx
+5.000 mAh,Oppo,Oppo A77 128GB 4G,"6,5""",8 Mpx,128 GB,Android 12,$932.900,4 GB,50 Mpx
+,Vivo,vivo V25 Pro 256GB 5G Con Obsequio,"6.56""",32 Mpx,256 GB,Android 12,$2.853.900,12 GB,64 Mpx
