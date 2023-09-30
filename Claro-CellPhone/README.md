@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 
 
-## Ejecutar un spider de Scrapy:
+## Ejecutar un spider de [Scrapy](https://github.com/Naren-7/ProyectosPowerBI/blob/main/Claro-CellPhone/spider_Claro_Colombia.py):
 
 ```bash
 scrapy runspider tu_spider.py -o archivo_salida.csv -t csv --set CLOSESPIDER_ITEMCOUNT=X
