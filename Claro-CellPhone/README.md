@@ -1,3 +1,10 @@
+## Insatallar dependencias
+```bash
+pip install -r requirements.txt
+
+```
+
+
 ## Ejecutar un spider de Scrapy:
 
 ```bash
