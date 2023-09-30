@@ -19,6 +19,6 @@ scrapy runspider tu_spider.py -o archivo_salida.csv -t csv --set CLOSESPIDER_ITE
 
 - `--set CLOSESPIDER_ITEMCOUNT=X`: Esto es opcional, pero puedes usarlo para limitar la cantidad de elementos que se raspan. Reemplaza `X` con el número deseado de elementos. Si no deseas limitar la cantidad, simplemente omite esta parte del comando.
 
-## Driver de Ege
+## Selenium
 
-[Link](https://developer.microsoft.com/es-es/microsoft-edge/tools/webdriver/)
+[Link](https://selenium-python.readthedocs.io/getting-started.html)
